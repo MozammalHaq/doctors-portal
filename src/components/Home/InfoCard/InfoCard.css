@@ -1,0 +1,21 @@
+.info-primary{
+    background-color: #1CC7C1;
+}
+
+.info-dark{
+    background-color: #3A4256;    
+}
+
+.info-primary, .info-dark {
+    padding: 30px 50px;
+    border-radius: 5px;
+    transition: .3s;
+}
+.info-primary:hover{
+    background-color: #3A4256;
+}
+
+.card-icon {
+    font-size: 40px;
+    margin-right: 30px;
+}
